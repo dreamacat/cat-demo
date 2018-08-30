@@ -1,0 +1,40 @@
+*/**/.DS_Store
+**/target/
+out/
+.classpath
+.project
+**/.externalToolBuilders/
+**/.classpath
+**/.project
+maven-eclipse.xml
+**/.settings/
+**/version.vm
+*.log
+*.DS_Storeg
+.scannerwork/
+**/APP_HOME_IS_UNDEFINED
+**/jdbc.properties
+
+
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###ca
+.apt_generated
+
+.factorypath
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
